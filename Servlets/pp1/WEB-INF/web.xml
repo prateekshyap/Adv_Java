@@ -1,0 +1,18 @@
+<web-app>
+	<servlet>
+		<init-param>
+			<param-name>name</param-name>
+			<param-value>Ankit</param-value>
+		</init-param>
+		<init-param>
+			<param-name>phone</param-name>
+			<param-value>9378992461</param-value>
+		</init-param>
+		<servlet-name>ss</servlet-name>
+		<servlet-class>InitParam</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ss</servlet-name>
+		<url-pattern>/test</url-pattern>
+	</servlet-mapping>
+</web-app>

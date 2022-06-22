@@ -1,0 +1,34 @@
+problems/find-pair-given-difference1559/1) |[Java](./Searching/FindPairWithGivenDifference.java) |Easy|||
+
+
+|  6  |K Diff Pairs In An Array|[LC](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |[Java](./Searching/CountKDiffUniquePairs.java) ||||
+
+
+|  7  |Triplet Sum In Array 1587115621|[GFG](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1) |[Java](./Searching/TripletWithGivenSum.java) |Medium|||
+
+
+|  8  |First Bad Version|[LC](https://leetcode.com/problems/first-bad-version/) |[Java](./Searching/FirstBadVersion.java) ||||
+
+
+|  9  |3sum Closest|[LC](https://leetcode.com/problems/3sum-closest/) |[Java](./Searching/TripletWithSumClosestToGivenSum.java) ||||
+
+
+|  10  |4sum|[LC](https://leetcode.com/problems/4sum/) |[Java](./Searching/CountQuadrupletsWithGivenSum.java) ||||
+
+
+|  11  |Find First And Last Position Of Element In Sorted Array|[LC](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[Java](./Searching/FirstAndLastPositions.java) ||||
+
+
+|  12  |Triplets With Sum With Given Range|[GFG](https://practice.geeksforgeeks.org/problems/triplets-with-sum-with-given-range/1/) |[Java](./Searching/CountTripletsWithSumInRange.java) |Medium|||
+
+
+|  13  |Four Elements2452|[GFG](https://practice.geeksforgeeks.org/problems/four-elements2452/1) |[Java](./Searching/QuadrupletsWithGivenSum.java) |Easy|||
+
+
+|  14  |Search Insert Position Of K In A Sorted Array|[GFG](https://practice.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1/) |[Java](./Searching/SearchInsertPosition.java) |Easy|||
+
+
+|  15  |Arithmetic Number2815|[GFG](https://practice.geeksforgeeks.org/problems/arithmetic-number2815/1) |[Java](./Searching/FindPresenceInAP.java) |Easy|||
+
+
+|  16  |Pair With Given Sum In A Sorted Array4940|[GFG](https://practice.geeksforgeek

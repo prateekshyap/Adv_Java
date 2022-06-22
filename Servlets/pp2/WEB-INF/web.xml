@@ -1,0 +1,20 @@
+<web-app>
+	<servlet>
+		<load-on-startup>1</load-on-startup>
+		<servlet-name>s</servlet-name>
+		<servlet-class>First</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>s</servlet-name>
+		<url-pattern>/first</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<load-on-startup>0</load-on-startup>
+		<servlet-name>ss</servlet-name>
+		<servlet-class>Second</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ss</servlet-name>
+		<url-pattern>/second</url-pattern>
+	</servlet-mapping>
+</web-app>

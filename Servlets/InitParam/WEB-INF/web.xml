@@ -1,0 +1,26 @@
+<web-app>
+	<servlet>
+		<servlet-name>serv</servlet-name>
+		<servlet-class>Login</servlet-class>
+		<init-param>
+			<param-name>driver</param-name>
+			<param-value>oracle.jdbc.driver.OracleDriver</param-value>
+		</init-param>
+		<init-param>
+			<param-name>url</param-name>
+			<param-value>jdbc:oracle:thin:@prateekshya:1522:orcl</param-value>
+		</init-param>
+		<init-param>
+			<param-name>user</param-name>
+			<param-value>prateekshya</param-value>
+		</init-param>
+		<init-param>
+			<param-name>pass</param-name>
+			<param-value>Soni19994$</param-value>
+		</init-param>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>serv</servlet-name>
+		<url-pattern>/login</url-pattern>
+	</servlet-mapping>
+</web-app>
